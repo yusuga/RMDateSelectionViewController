@@ -1,0 +1,15 @@
+{
+  "originHash" : "035a64d26b484a2887dbc234da7f11a908df197b405be69cb31995bc30725535",
+  "pins" : [
+    {
+      "identity" : "rmactioncontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:yusuga/RMActionController.git",
+      "state" : {
+        "branch" : "feat/swiftpm",
+        "revision" : "694a2fe13dd5556ba8e06984b53e8acaf97d5a7b"
+      }
+    }
+  ],
+  "version" : 3
+}
